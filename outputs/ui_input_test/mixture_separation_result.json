@@ -1,0 +1,7 @@
+{
+  "input": "E:\\Codex20260517\\music_instrument\\outputs\\piano_violin_demo\\mixture.wav",
+  "model_input": "E:\\Codex20260517\\music_instrument\\outputs\\ui_input_test\\mixture_model_input_mono_8000hz.wav",
+  "piano_estimate": "E:\\Codex20260517\\music_instrument\\outputs\\ui_input_test\\mixture_piano_estimate.wav",
+  "violin_estimate": "E:\\Codex20260517\\music_instrument\\outputs\\ui_input_test\\mixture_violin_estimate.wav",
+  "sample_rate": "8000"
+}

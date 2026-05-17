@@ -1,0 +1,8 @@
+{
+  "mixture_as_piano_sdr_db": -6.667337894439697,
+  "separated_piano_sdr_db": 2.0753417015075684,
+  "piano_improvement_db": 8.742679595947266,
+  "mixture_as_violin_sdr_db": 6.667337894439697,
+  "separated_violin_sdr_db": 8.767510414123535,
+  "violin_improvement_db": 2.100172519683838
+}
