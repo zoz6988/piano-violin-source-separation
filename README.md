@@ -61,5 +61,25 @@ This is not a full DSD100 reproduction. It is a compact proof-of-concept for the
 paper's separation recipe, specialized to synthetic piano/violin harmony so it
 can be trained and tested locally without external datasets or neural-network
 frameworks.
-<img width="1125" height="175" alt="image" src="https://github.com/user-attachments/assets/8a31c38a-924f-4fae-9473-6155cbabaffc" />
+太棒了，你已经成功进入了 `E:\Codex20260517\music_instrument\demo` 文件夹！
+
+现在的报错“系统找不到指定的路径”，是因为你现在的命令里多写了一个 `demo\`。因为你**已经在** `demo` 文件夹里了，直接叫文件名就行。
+
+### 最终正确的运行命令
+
+请直接输入这一行：
+
+```bash
+python piano_violin_separation_demo.py --ui
+
+```
+
+---
+
+### 为什么之前的命令不行？
+
+你之前的命令是：`demo\piano_violin_separation_demo.py`
+这相当于你在“客厅”里找“客厅里的电视机”，电脑会去 `demo` 文件夹下面再找一个叫 `demo` 的子文件夹，结果发现没有，所以报错了。
+
+**只要输入上面那行简单的命令，界面就会弹出来啦！** 如果运行后提示“找不到 python”，记得确认一下你的 Python 环境是否安装好。
 
