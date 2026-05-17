@@ -61,3 +61,5 @@ This is not a full DSD100 reproduction. It is a compact proof-of-concept for the
 paper's separation recipe, specialized to synthetic piano/violin harmony so it
 can be trained and tested locally without external datasets or neural-network
 frameworks.
+<img width="1125" height="175" alt="image" src="https://github.com/user-attachments/assets/8a31c38a-924f-4fae-9473-6155cbabaffc" />
+
